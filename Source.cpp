@@ -9,5 +9,8 @@ void thien (){
 	int a =5; 
 }
 
-//commit 5
+void sua() {
+
+}
+
 //commit 3
