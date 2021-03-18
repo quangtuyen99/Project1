@@ -9,6 +9,11 @@ void thien (){
 	int a =5; 
 }
 
+int sum(int a, int b)
+{
+	return a+b; 
+}
+//commit 5
 void sua() {
 
 }
