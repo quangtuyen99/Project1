@@ -8,4 +8,8 @@ void thien (){
 //Cao ngoc thienhahah
 	int a =5; 
 }
+
+int sum(int a, int b){
+	return a+b;
+}
 //commit 3
